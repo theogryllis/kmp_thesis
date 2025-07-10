@@ -79,7 +79,7 @@ fun SettingsScreen() {
                 settingsSection("ALLGEMEINES") {
                     settingsItem(
                         icon = RegularGroup.User,
-                        title = "Kontoeinstellungen für u/dave_the_goliath"
+                        title = "Kontoeinstellungen für Theo"
                     )
                 }
             }
